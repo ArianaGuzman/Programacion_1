@@ -1,0 +1,5 @@
+LaPaz 8.5
+Cochabamba 25.2
+SantaCruz 35.6
+Oruro 21.5
+Tarija 25.6 

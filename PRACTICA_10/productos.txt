@@ -1,0 +1,5 @@
+manzana 3.5
+pera 2.8
+sandia 5.7
+plátano 3.5
+naranja 3.9

@@ -1,0 +1,3 @@
+Descripción: Escribe un programa que lea un archivo de texto llamado
+Descripción: Escribe un  que lea un archivo de texto llamado
+Descripción: Escribe un programa que lea un archivo programa de texto llamado
